@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000';  
+const API_BASE_URL = 'https://full-stack-task-management-app-q906.onrender.com';  
 
 /**
  * Fetch all user menu items (items added by the logged-in user).
